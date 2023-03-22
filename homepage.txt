@@ -1,1 +1,2 @@
- like c programming
+I like c programming
+I like python programming
